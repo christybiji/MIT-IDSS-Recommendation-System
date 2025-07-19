@@ -1,1 +1,3 @@
-# MIT-IDSS-Recommendation-System
+## MIT-IDSS-Recommendation-System
+
+### Course: Recommendation Systems
